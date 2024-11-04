@@ -19,4 +19,5 @@ This project is a visually appealing representation of a city skyline using HTML
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/city-skyline.git
+   git clone https://github.com/JackSawyerWATX/Skyline.git
+   
